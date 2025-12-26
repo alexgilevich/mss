@@ -1,28 +1,28 @@
-MySheet - CSS Preprocessor and Parser written in PHP
+MSS - CSS Preprocessor and Parser written in PHP
 =======
 [![Latest Stable Version](https://poser.pugx.org/mysheet/mysheet/v/stable.svg)](https://packagist.org/packages/mysheet/mysheet) [![Total Downloads](https://poser.pugx.org/mysheet/mysheet/downloads)](https://packagist.org/packages/mysheet/mysheet) [![Monthly Downloads](https://poser.pugx.org/mysheet/mysheet/d/monthly.png)](https://packagist.org/packages/mysheet/mysheet) [![Latest Unstable Version](https://poser.pugx.org/mysheet/mysheet/v/unstable.svg)](https://packagist.org/packages/mysheet/mysheet) [![License](https://poser.pugx.org/mysheet/mysheet/license.svg)](https://packagist.org/packages/mysheet/mysheet)
 
-**Official website**: http://mss.flydigo.com
+**Official website**: http://mss.flydigo.com (not available at the moment)
 
-**Get started**: http://mss.flydigo.com/getStarted
+**Get started**: http://mss.flydigo.com/getStarted (not available at the moment)
 
-**Documentation**: http://mss.flydigo.com/docs
+**Documentation**: http://mss.flydigo.com/docs (not available at the moment)
 
-**Author**: Alexander Gilevich ([about me](http://mss.flydigo.com/about))
+**Author**: Alexandr Gilevich 
 
 
 What is it?
 ------
-MySheet Library is the open-source CSS preprocessor and parser written in PHP. It has full backward compatibility with pure CSS. MySheet was highly inspired by the simplicity of Stylus for Node.js. It also has some solutions from other CSS preprocessors. 
+MSS is an open-source CSS preprocessor and parser written in PHP with support for extensions / plug-ins. It has full backward compatibility with pure CSS. MSS has been primarily inspired by the simplicity of Stylus for Node.js. It also has some key features from other CSS preprocessors such as SASS and LESS. 
 
 
-Advantages
+Key Features
 ---
 
-- Simplicity and flexibility of writing web-site styles for designer
-- Styles can be adjusted from backend making it easy to control styles of your site even without proffessional knowledge of CSS
+- Dynamic stylesheet modification at runtime (proving to be useful in building Content Management Systems (CMS) for the use by people with little-to-no prior experience in CSS)
 - Extensibility and support of plugins
-- Compatibility with pure CSS
+- Custom language which uses [indentation style](https://en.wikipedia.org/wiki/Indentation_style) (think of Python)
+- Full backward compatibility with pure CSS (i.e. curly-bracket style)
 
 
 Examples
@@ -113,4 +113,4 @@ and much much more...
 License
 ---
 
-MySheet Library is open-source project. It is licensed under Apache License, Version 2.0. 
+MSS is open-source project. It is licensed under Apache License, Version 2.0. 

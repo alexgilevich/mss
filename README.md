@@ -21,6 +21,9 @@ Key Features
 
 - Dynamic stylesheet modification at runtime (proving to be useful in building Content Management Systems (CMS) for the use by people with little-to-no prior experience in CSS)
 - Extensibility and support of plugins
+- Support for variables and math expressions
+- Color manipulation with various color systems (HSL, RGB, etc.)
+- Mix-ins (common style templates)
 - Custom language which uses [indentation style](https://en.wikipedia.org/wiki/Indentation_style) (think of Python)
 - Full backward compatibility with pure CSS (i.e. curly-bracket style)
 
